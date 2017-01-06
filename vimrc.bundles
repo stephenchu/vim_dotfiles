@@ -57,6 +57,7 @@ Plug 'vim-scripts/Align'
 Plug 'vim-scripts/mako.vim'
 Plug 'vim-scripts/matchit.zip'
 Plug 'vim-scripts/VimClojure'
+Plug 'google/vim-jsonnet'
 if filereadable(expand("~/.vimrc.bundles.local"))
   source ~/.vimrc.bundles.local
 endif
